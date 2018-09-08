@@ -2,14 +2,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 title: 前~端~影
-subtitle: 111
-description: 111
-keywords:
+subtitle: 不停地奔赴，寻找最初的梦想，才会不枉此生。
+description: 不停地奔赴，寻找最初的梦想，才会不枉此生
+keywords: Eliden的个人博客
 author: Eliden
 language: zh-CN
 timezone:
 
-url: http://yoursite.com
+url: https://eliden123.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
